@@ -1,7 +1,10 @@
-// Tejedor Pérez, Diego
+/*
+        Tejedor
+        Pérez,
+        Diego
+*/
 
 import com.sun.jna.platform.win32.User32;
-
 import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
